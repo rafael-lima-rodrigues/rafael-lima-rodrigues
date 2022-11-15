@@ -1,10 +1,11 @@
 ### Hi, welcome to my GitHub Repositories
 <div>
   <a href="https://github.com/rafael-lima-rodrigues">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafael-lima-rodrigues&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafael-lima-rodrigues&layout=compact&langs_count=5&theme=dark"/>
-</div
-    <div style="display: inline_block"><br>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafael-lima-rodrigues&show_icons=true&theme=dark&include_all_commits=true&count_private=true">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafael-lima-rodrigues&layout=compact&langs_count=5&theme=dark">
+    </div>
+    <div style="display: inline_block">
+    <br>
   <img align="center" alt="java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg">
     <img align="center" alt="spring" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg">
     <img align="center" alt="ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
